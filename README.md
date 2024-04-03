@@ -25,8 +25,4 @@ This project is your ticket to creating a website that not only showcases your f
 
 By the end of this project, you won't just have a list of great books; you'll have a captivating website that invites others to fall in love with reading. How awesome is that?
 
-## 🚀 Ready to Begin Your Webventure?
-
-Grab your wizard hat and your coding wand—it's time to spellbind the internet with your literary love. By journeying through the "Top Five Books" project, you're not just learning to code; you're opening a portal to new worlds for every visitor.
-
-Happy coding, young wizards of words! 🚀👩‍💻👨‍💻
+Happy coding! 🚀👩‍💻👨‍💻
